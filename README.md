@@ -43,3 +43,14 @@ Oil pressure sensor in place:
 
 
 
+
+General Wiring:
+
+
+![20250320_154115](https://github.com/user-attachments/assets/24ba10cc-ca21-401a-8f4f-ce5fa05d6aa1)
+
+
+
+
+
+
