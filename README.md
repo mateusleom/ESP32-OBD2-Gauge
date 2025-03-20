@@ -17,3 +17,29 @@ In this forks i've made the following changes:
   - Last lines of void setup were modified in order to be able to read from two headers at the same time (7E1 and 7E0) so its possbile to have TCU and ECU information at the same time. Somes formulas where modified, some other lines were also modified.
  
   - I'm not a good coder so don't expect much support as the original poster might be able to do.
+
+
+Present interface:
+
+![20250320_145110](https://github.com/user-attachments/assets/25c0b1a3-b323-4c86-a890-6be8e1a32db4)
+
+
+
+Water level sensor support (3d printed in ABS):
+
+![20250320_144942](https://github.com/user-attachments/assets/404d86b8-3806-4994-82fd-5f378f81d57d)
+
+
+
+Water level sensor in place:
+
+![20250320_144935](https://github.com/user-attachments/assets/849eae2b-371d-4263-8520-e362fb60f166)
+
+
+
+Oil pressure sensor in place:
+
+![20250320_145540](https://github.com/user-attachments/assets/99c7670b-4fc3-435c-a460-48c47277a65e)
+
+
+
